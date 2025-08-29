@@ -4,6 +4,7 @@
 
 # Latar Belakang
    Proyek ini menganalisis data penjualan dari jaringan toko swalayan multi-lokasi yang mencatat 1980 transaksi selama periode 2023–2025. Dataset mencakup informasi detail mengenai transaksi, produk, pelanggan, cabang toko, serta aktivitas promosi.
+   
    Tujuan utama analisis adalah melakukan Marketing Channel Analysis untuk:
      - Meningkatkan penjualan tahunan.
      - Mengoptimalkan kontribusi promosi.
